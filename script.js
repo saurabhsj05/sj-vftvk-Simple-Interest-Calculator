@@ -25,4 +25,4 @@ function compute() {
 
 function showVal(newVal) { //Show range value in span
     document.getElementById("showRate").innerHTML = newVal + '%';
-} 
+}
